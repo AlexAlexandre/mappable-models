@@ -60,7 +60,7 @@ Exemplo:
 
 namespace App\Models;
 
-use AlexAeexandre\MappableModels\MappableModel;
+use AlexAlexandre\MappableModels\MappableModel;
 use AlexAlexandre\MappableModels\Traits\HasNestedAttributes;
 
 class Event extends MappableModel
